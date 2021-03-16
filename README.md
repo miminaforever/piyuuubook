@@ -1,4 +1,4 @@
-# piyuuubook
+# Piyuuubook
 A basic fullstack blog app.
 
 # Contact Us
